@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="libraryTable">
+    <library name="scala-sdk-2.12.8" type="Scala">
+      <properties>
+        <compiler-classpath>
+          <root url="file://G:/scala/lib/scala-compiler.jar" />
+          <root url="file://G:/scala/lib/scala-library.jar" />
+          <root url="file://G:/scala/lib/scala-reflect.jar" />
+        </compiler-classpath>
+      </properties>
+      <CLASSES>
+        <root url="jar://G:/scala/lib/scala-library.jar!/" />
+        <root url="jar://G:/scala/lib/scala-parser-combinators_2.12-1.0.7.jar!/" />
+        <root url="jar://G:/scala/lib/scala-reflect.jar!/" />
+        <root url="jar://G:/scala/lib/scala-swing_2.12-2.0.3.jar!/" />
+        <root url="jar://G:/scala/lib/scala-xml_2.12-1.0.6.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://G:/scala/api/jars/scala-library-2.12.8-javadoc.jar!/" />
+        <root url="jar://G:/scala/api/jars/scala-parser-combinators_2.12-1.0.7-javadoc.jar!/" />
+        <root url="jar://G:/scala/api/jars/scala-reflect-2.12.8-javadoc.jar!/" />
+        <root url="jar://G:/scala/api/jars/scala-swing_2.12-2.0.3-javadoc.jar!/" />
+        <root url="jar://G:/scala/api/jars/scala-xml_2.12-1.0.6-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES />
+    </library>
+  </component>
+</project>
